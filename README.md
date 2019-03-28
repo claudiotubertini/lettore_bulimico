@@ -1,5 +1,5 @@
 # Il lettore Google (CUBO Unipol 1 aprile 2019)
-### Questo testo accompagna ma non sostituisce le slide presentate in sala (disponibili sempre in questo repo) 
+### Questo testo accompagna ma non sostituisce le slides presentate in sala (disponibili sempre in questo repo) 
 Negli utlimi anni abbiamo assistito a una crescita esponenziale della produzione di dati e documenti tra cui pagine Web, notizie giornalistiche, letteratura scientifica, e-mail, documenti aziendali e social media come blog, forum, recensioni di prodotti e tweet. 
 Questi dati sono presenti sia all'interno delle reti aziendali, in ERP, CRM, ecc., sia sul web. 
 Gli strumenti tipici della business intelligence e della gestione dei database incrementano e gestiscono questa "galassia" di dati. Per definizione la produzione editoriale è un'estrazione di questi dati, la loro analisi e sintesi da parte di un operatore esperto.
