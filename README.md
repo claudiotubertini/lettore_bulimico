@@ -133,6 +133,4 @@ res = json.dumps(data)
 with open('nytimes.json', 'w') as file:
     file.write(res)
 ```  
-Ora sappiamo cos'è un dato: una tripletta RDF: un soggetto, un predicato, un oggetto. Ciascuno di questi è in genere un URI
-
-I dati strutturati sui motori di ricerca
+Ora sappiamo cos'è un dato: una tripletta RDF: un soggetto, un predicato, un oggetto. Ciascuno di questi è in genere un URI.
