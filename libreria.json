@@ -1,0 +1,492 @@
+{
+    "microdata": [
+        {
+            "type": "http://schema.org/WebPage",
+            "id": "https://www.libreriauniversitaria.it/macroeconomia-prospettiva-europea-blanchard-olivier/libro/9788815265715",
+            "properties": {
+                "breadcrumb": {
+                    "type": "http://schema.org/BreadcrumbList",
+                    "properties": {
+                        "itemListElement": [
+                            {
+                                "type": "http://schema.org/ListItem",
+                                "properties": {
+                                    "item": {
+                                        "type": "http://schema.org/Thing",
+                                        "properties": {"name": "Libri universitari"}
+                                    },
+                                    "position": "2"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/ListItem",
+                                "properties": {
+                                    "item": {
+                                        "type": "http://schema.org/Thing",
+                                        "properties": {"name": "Economia e management"}
+                                    },
+                                    "position": "3"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/ListItem",
+                                "properties": {
+                                    "item": {
+                                        "type": "http://schema.org/Thing",
+                                        "properties": {"name": "Economia"}
+                                    },
+                                    "position": "4"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/ListItem",
+                                "properties": {
+                                    "item": {
+                                        "type": "http://schema.org/Thing",
+                                        "properties": {"name": "Macroeconomia"}
+                                    },
+                                    "position": "5"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "mainEntity": {
+                    "type": "http://schema.org/Book",
+                    "properties": {
+                        "inLanguage": "IT",
+                        "workExample": {
+                            "type": "http://schema.org/Book",
+                            "properties": {
+                                "bookFormat": "http://schema.org/Paperback",
+                                "numberOfPages": "682",
+                                "isbn": "8815265716",
+                                "potentialAction": {
+                                    "type": "http://schema.org/ReadAction",
+                                    "properties": {
+                                        "target": [
+                                            {
+                                                "type": "http://schema.org/EntryPoint",
+                                                "properties": {
+                                                    "urlTemplate": "https://www.libreriauniversitaria.it/macroeconomia-prospettiva-europea-blanchard-olivier/libro/9788815265715",
+                                                    "actionPlatform": "http://schema.org/DesktopWebPlatform"
+                                                }
+                                            },
+                                            {
+                                                "type": "http://schema.org/EntryPoint",
+                                                "properties": {
+                                                    "urlTemplate": "https://m.libreriauniversitaria.it/#!/product/BIT/9788815265715",
+                                                    "actionPlatform": "http://schema.org/MobileWebPlatform"
+                                                }
+                                            }
+                                        ],
+                                        "expectsAcceptanceOf": {
+                                            "type": "http://schema.org/Offer",
+                                            "properties": {
+                                                "itemCondition": "http://schema.org/NewCondition",
+                                                "priceCurrency": "EUR",
+                                                "price": "42.5",
+                                                "availability": "http://schema.org/InStock"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        "offers": {
+                            "type": "http://schema.org/Offer",
+                            "properties": {
+                                "itemCondition": "http://schema.org/NewCondition",
+                                "priceCurrency": "EUR",
+                                "price": "42.5",
+                                "availability": "http://schema.org/InStock"
+                            }
+                        },
+                        "image": "https://img2.libreriauniversitaria.it/BIT/300/571/9788815265715.jpg",
+                        "name": "Macroeconomia. Una prospettiva europea",
+                        "description": "Descrizione del libroObiettivo del manuale - qui presentato in una nuova edizione radicalmente aggiornata anche nell'impianto teorico - è fornire una visione generale e integrata della macroeconomia post-crisi, adottando un modello di base che studia l'economia nel breve, nel medio e nel lungo periodo. Tale modello viene applicato a problematiche dell'economia reale. Fra gli argomenti rilevanti affrontati: la crisi economica e finanziaria mondiale e le sue ricadute sulla realtà europea. IndiceParte prima: Introduzione. - I. Un viaggio intorno al mondo. - II. Un viaggio attraverso il libro. - I FONDAMENTI.Parte seconda: Il breve periodo. - III. Il mercato dei beni. - IV. I mercati finanziari. - V. Il mercato dei beni e i mercati finanziari: il modello IS-LM. - VI. I mercati finanziari II: il modello IS-LM esteso.Parte terza: Il medio periodo. - VII. Il mercato del lavoro. - VIII. La curva di Phillips, il tasso naturale di disoccupazione e l\u2019inflazione. - IX. Dal breve al medio periodo: il modello IS-LM-PC.Parte quarta: Il lungo periodo. - X. Crescita: i fatti principali. - XI. Risparmio, accumulazione di capitale e produzione. - XII. Progresso tecnologico e crescita. - XIII. Progresso tecnologico: il breve, il medio e il lungo periodo. - LE ESTENSIONI.Parte quinta: Le aspettative. - XIV. Mercati finanziari e aspettative. - XV. Aspettative, consumo e investimento. - XVI. Aspettative, produzione e politica economica.Parte sesta: L\u2019economia aperta. - XVII. Apertura del mercato dei beni e dei mercati finanziari. - XVIII. Il mercato dei beni in economia aperta. - XIX. Produzione, tasso di interesse e tasso di cambio. - XX. Regimi di cambio.Parte settima: La politica economica. - XXI. I limiti della politica economica. - XXII. La politica fiscale. - XXIII. La politica monetaria. - L\u2019epilogo. - XXIV. La storia della macroeconomia.Appendici. - Glossario. \u2013 Indice analitico.",
+                        "aggregateRating": {
+                            "type": "http://schema.org/AggregateRating",
+                            "properties": {
+                                "ratingValue": "5",
+                                "reviewCount": "5"
+                            }
+                        },
+                        "review": [
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Ottimo manuale",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "P. Puca"}
+                                    },
+                                    "reviewBody": "Questo manuale si rivolge a un'ampia platea di studiosi, dallo studente universitario, allo studioso, al cittadino che voglia approfondire le tematiche della macroeconomia. È organizzato naturalmente per tematiche, disposte in modo tale da far sì che il lettore possa selezionare facilmente il grado e il livello di difficoltà con cui desidera approcciarsi alla materia: da un punto di vista più intuitivo, o da un punto di vista scientifico, attraverso i grafici che costituiscono la croce e delizia degli studenti della materia. L'ampiezza del manuale non deve affatto spaventare, perché ogni argomento è ben esposto, in un linguaggio semplice, ma che non toglie nulla all'aspetto tecnico. Ne consiglio vivamente l'acquisto.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2018-11-03"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Eccellente",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "I. Fasciolo"}
+                                    },
+                                    "reviewBody": "Manuale di macroeconomia davvero ottimo, ben strutturato, spiegazioni chiare. Trovo molto utili i box di approfondimento perché applicano la teoria alla realtà di fatto spiegando fatti economici passati. Lo consiglio a studenti di scienze politiche e a chiunque voglia capire la macroeconomia senza dar eccessivo peso all'aspetto matematico. Inoltre, rispetto ad altri manuali di macroeconomia, apprezzo moltissimo il fatto che questo tratti la materia da un punto di vista europeo, e non americano.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2018-04-08"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Manuale ottimo",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "S. Nesi"}
+                                    },
+                                    "reviewBody": "Manuale di macroeconomia davvero ottimo, ben strutturato, spiegazioni chiare. Trovo molto utili i box di approfondimento perché applicano la teoria alla realtà di fatto, spiegando fatti economici passati. Lo consiglio a studenti di scienze politiche e a chiunque voglia capire la macroeconomia senza dar eccessivo peso all'aspetto matematico. Inoltre, rispetto ad altri manuali di macroeconomia, apprezzo moltissimo il fatto che questo tratti la materia da un punto di vista europeo, e non americano.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2018-03-22"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Imprescindibile manuale di macroeconomia",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "M. Benvenuti"}
+                                    },
+                                    "reviewBody": "Un testo ormai classico, ma sempre aggiornato per cogliere gli ultimi sviluppi dell'economia mondiale ed europea, scritto molto bene e ben curato nella sua edizione italiana che analizza e contestualizza i contenuti alla realtà a noi più vicina.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2018-01-25"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Fantastico",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "M. Costelli"}
+                                    },
+                                    "reviewBody": "Questo testo è un ottimo libro universitario: ho solo alcune perplessità sulla logica di continuità dei capitoli, dato che l'economia è in capitoli diversi, ma per il resto è ottimo! Davvero consigliato!",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2014-12-14"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Macroeconomia",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "E. Verre"}
+                                    },
+                                    "reviewBody": "Uno dei libri migliori per entrare nell'argomento. \rGli argomenti trattati sono spiegati bene, molto dettagliati, con vari esempi e per lo più in modo chiaro anche per chi è alle prime armi. Il libro segue uno schema preciso e anche per questo è uno dei testi preferibili rispetto agli altri in circolazione.\rA fine capitolo ci sono sempre degli schemi con nozioni base, domande ed esempi.\rSono circa 700 pagine, ma l'autore scrive in modo scorrevole e chiaro, dando ampio spazio ai grafici; certo ogni tanto si perde, ma le quattro stelline se le merita.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "4"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2014-02-05"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Uno dei migliori manuali di macroeconomia",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "V. Asaro"}
+                                    },
+                                    "reviewBody": "Il Blanchard è senza ombra di dubbio uno dei migliori manuali di macroeconomia in circolazione, è spesso adottato come libro di testo consigliato nei corsi universitari di macroeconomia. E' consigliabile, anche se non indicato come testo consigliato, da affiancare ai testi consigliati dalle varie facoltà, vista la facilità di comprensione e la schematicità con cui gli argomenti sono trattati.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "4"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2012-05-23"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Uno dei migliori",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "A. Coppola"}
+                                    },
+                                    "reviewBody": "Come da titolo il testo di Blanchard è uno dei migliori libri in circolazione che trattano macroeconomia; inoltre questa nuova edizione, come si può intuire, ha un occhio di riguardo per L'Europa, cosa sicuramente da apprezzare visto che generalmente i libri \"economici\" hanno sempre un approccio tendenzialmente americana",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2012-03-06"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Consigliato",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "G. Gallotto"}
+                                    },
+                                    "reviewBody": "Il testo è chiarissimo. Ho approcciato questa materia con il timore che fosse per me incomprensibile, ma grazie al supporto di questo manuale, che ti guida nello studio passo dopo passo, le perplessità sono venute meno. Ogni passaggio è spiegato punto per punto. Consigliatissimo!.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2011-11-09"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Macroeconomia",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "R. Librici"}
+                                    },
+                                    "reviewBody": "Il presente libro di testo analizza la \"grande economia\" sottolineando innanzi tutto le differenze sostanziali con la microeconomia (per esempio ciò che in micro era il consumatore in macro diviene il consumo) .\rL'autore analizza e spiega il modello IS-LM, il modello AS-AD, come determinare il tasso naturale di disoccupazione ed il salario ottimo, come determinare e calcolare il tasso di cambio ed i rendimenti.\rOttimo libro per addentrarsi nell'oscuro mondo dell'economia.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "4"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2011-09-30"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Ideale per lo studio",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "R. RUFFIN"}
+                                    },
+                                    "reviewBody": "Il manuale è l'ideale per lo studio della macroeconomia in corsi di laurea di ambito economico. Chiaro, ben scritto, ricco di esempi, ipotesi, grafici, tabelle e casi studio interessanti. Preferisce la rappresentazione grafico-intuitiva alla tradizionale esposizione prettamente teorica. Utilissimi i riquardi di riassunto a bordo pagina e i sunti di fine capitolo. Riesce ad appassionare ad una delle materie più temute dagli studenti universitari. E' attiva anche un'espansione sul Web.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2011-09-11"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "La macroeconomia",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "S. Papini"}
+                                    },
+                                    "reviewBody": "Il libro, divenuto ormai il testo principale per preparare l'esame di macroeconomia nelle facoltà di mezzo mondo, si propone di avvicinare lo studente allo studio della materia in modo graduale, utilizzando molti esempi tratti dalla storia economica. \rUn ottimo testo, che riesce ad un unire formule, grafici, con il piacere per l'apprendimento",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2011-07-07"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Il miglior libro di macroeconomia per studenti",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "M. Bartolozzi"}
+                                    },
+                                    "reviewBody": "Ci ho preparato l'esame di macroeconomia all'Università.\rIl miglior libro che abia mai incontrato: è riuscito a farmi appassionare a una materia per me ostica tramite un'esposizione semplice, essenziale ma completa e corredata da tantissimi esempi.\rNe ho veramente un ottimo ricordo.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "5"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2011-03-13"
+                                }
+                            },
+                            {
+                                "type": "http://schema.org/Review",
+                                "properties": {
+                                    "name": "Davvero non male...",
+                                    "author": {
+                                        "type": "http://schema.org/Person",
+                                        "properties": {"name": "D. Catania"}
+                                    },
+                                    "reviewBody": "Un libro abbastanza completo che, se accoppiato ad un buon eserciziario potrebbe rendere la macroeconomia facile da apprendere ed in modo \"gradualmente piacevole\"... Sicuramente consigliato.",
+                                    "reviewRating": {
+                                        "type": "http://schema.org/Rating",
+                                        "properties": {"ratingValue": "4"}
+                                    },
+                                    "inLanguage": "IT",
+                                    "datePublished": "2010-08-20"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "json-ld": [],
+    "opengraph": [
+        {
+            "namespace": {"og": "http://ogp.me/ns#"},
+            "properties": [
+                [
+                    "og:locale",
+                    "it_IT"
+                ],
+                [
+                    "og:site_name",
+                    "www.libreriauniversitaria.it"
+                ],
+                [
+                    "og:title",
+                    "Macroeconomia. Una prospettiva europea"
+                ],
+                [
+                    "og:url",
+                    "https://www.libreriauniversitaria.it/macroeconomia-prospettiva-europea-blanchard-olivier/libro/9788815265715"
+                ],
+                [
+                    "og:type",
+                    "product"
+                ],
+                [
+                    "og:description",
+                    "Obiettivo del manuale - qui presentato in una nuova edizione radicalmente aggiornata anche nell'impianto teorico - è fornire una visione generale e integrata della macroeconomia post-crisi, adottando un modello di base che studia l'economia nel breve, nel medio e nel lungo periodo. Tale modello v..."
+                ],
+                [
+                    "og:image",
+                    "https://img2.libreriauniversitaria.it/BIT/300/571/9788815265715.jpg"
+                ]
+            ]
+        }
+    ],
+    "microformat": [],
+    "rdfa": [
+        {
+            "@id": "https://www.libreriauniversitaria.it/macroeconomia-prospettiva-europea-blanchard-olivier/libro/9788815265715",
+            "http://ogp.me/ns#description": [
+                {
+                    "@language": "it",
+                    "@value": "Obiettivo del manuale - qui presentato in una nuova edizione radicalmente aggiornata anche nell'impianto teorico - è fornire una visione generale e integrata della macroeconomia post-crisi, adottando un modello di base che studia l'economia nel breve, nel medio e nel lungo periodo. Tale modello v..."
+                }
+            ],
+            "http://ogp.me/ns#image": [
+                {
+                    "@language": "it",
+                    "@value": "https://img2.libreriauniversitaria.it/BIT/300/571/9788815265715.jpg"
+                }
+            ],
+            "http://ogp.me/ns#locale": [
+                {
+                    "@language": "it",
+                    "@value": "it_IT"
+                }
+            ],
+            "http://ogp.me/ns#site_name": [
+                {
+                    "@language": "it",
+                    "@value": "www.libreriauniversitaria.it"
+                }
+            ],
+            "http://ogp.me/ns#title": [
+                {
+                    "@language": "it",
+                    "@value": "Macroeconomia. Una prospettiva europea"
+                }
+            ],
+            "http://ogp.me/ns#type": [
+                {
+                    "@language": "it",
+                    "@value": "product"
+                }
+            ],
+            "http://ogp.me/ns#url": [
+                {
+                    "@language": "it",
+                    "@value": "https://www.libreriauniversitaria.it/macroeconomia-prospettiva-europea-blanchard-olivier/libro/9788815265715"
+                }
+            ],
+            "http://ogp.me/ns/fb#app_id": [
+                {
+                    "@language": "it",
+                    "@value": "314299461923184"
+                }
+            ],
+            "https://dev.twitter.com/cards#card": [
+                {
+                    "@language": "it",
+                    "@value": "product"
+                }
+            ],
+            "https://dev.twitter.com/cards#data1": [
+                {
+                    "@language": "it",
+                    "@value": "Blanchard Olivier J.,Amighini Alessia,Giavazzi Francesco"
+                }
+            ],
+            "https://dev.twitter.com/cards#data2": [
+                {
+                    "@language": "it",
+                    "@value": "Il Mulino"
+                }
+            ],
+            "https://dev.twitter.com/cards#description": [
+                {
+                    "@language": "it",
+                    "@value": "Obiettivo del manuale - qui presentato in una nuova edizione radicalmente aggiornata anche nell'impianto teorico - è fornire una visione generale e integrata della macroeconomia post-crisi, adottando un modello di base che studia l'economia nel breve, nel medio e nel lungo periodo. Tale modello v..."
+                }
+            ],
+            "https://dev.twitter.com/cards#label1": [
+                {
+                    "@language": "it",
+                    "@value": "Autore"
+                }
+            ],
+            "https://dev.twitter.com/cards#label2": [
+                {
+                    "@language": "it",
+                    "@value": "Editore"
+                }
+            ],
+            "https://dev.twitter.com/cards#site": [
+                {
+                    "@language": "it",
+                    "@value": "libreria_uni"
+                }
+            ]
+        }
+    ]
+}

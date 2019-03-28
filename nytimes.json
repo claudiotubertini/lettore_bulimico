@@ -1,0 +1,400 @@
+{
+    "microdata": [
+        {
+            "type": "http://schema.org/NewsArticle",
+            "id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html",
+            "properties": {
+                "inLanguage": "en-US",
+                "datePublished": "2019-03-14T06:30:05.000Z",
+                "dateModified": "2019-03-14T20:32:53.079Z",
+                "identifier": [
+                    "100000006408242",
+                    "nyt://article/b4414dc8-00af-5da2-bc6c-057a184a486e",
+                    "pubp://event/4813b2d8c1bc4a84bc04f2501aa21e38"
+                ],
+                "description": "The famous mathematical ratio, estimated to more than 22 trillion digits (and counting), is the perfect symbol for our species\u2019 long effort to tame infinity.",
+                "image": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/14PIDAY1-facebookJumbo.jpg",
+                "thumbnailUrl": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/14PIDAY1-thumbStandard.jpg",
+                "articleSection": "Science",
+                "genre": "News",
+                "url": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html",
+                "mainEntityOfPage": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html",
+                "isAccessibleForFree": "false",
+                "isPartOf": {
+                    "type": [
+                        "http://schema.org/CreativeWork",
+                        "http://schema.org/Product"
+                    ],
+                    "properties": {
+                        "name": "The New York Times Company",
+                        "productID": "nytimes.com:basic"
+                    }
+                },
+                "headline": "Pi Day: How One Irrational Number Made Us Modern",
+                "associatedMedia": [
+                    {
+                        "type": "http://schema.org/ImageObject",
+                        "id": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/merlin_152011911_8376b689-a859-47e1-bd46-27bad3e2919d-articleLarge.jpg?quality=90&auto=webp",
+                        "properties": {
+                            "url": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/merlin_152011911_8376b689-a859-47e1-bd46-27bad3e2919d-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                            "caption": "Devotees of the circle during a Pi Day celebration in Houston.CreditCreditMichael Paulsen/Houston Chronicle, via Associated Press",
+                            "description": "Devotees of the circle during a Pi Day celebration in Houston.CreditCreditMichael Paulsen/Houston Chronicle, via Associated Press",
+                            "copyrightHolder": "CreditCreditMichael Paulsen/Houston Chronicle, via Associated Press"
+                        }
+                    },
+                    {
+                        "type": "http://schema.org/ImageObject",
+                        "id": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY3/merlin_152010267_d2a82a7d-73ba-41ef-bde2-c5331cec102c-articleLarge.jpg?quality=90&auto=webp",
+                        "properties": {
+                            "url": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY3/merlin_152010267_d2a82a7d-73ba-41ef-bde2-c5331cec102c-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+                            "caption": "",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "type": "http://schema.org/ImageObject",
+                        "id": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY4/merlin_152010264_2c61feef-86de-4380-b02d-4f5a09d6b7aa-articleLarge.jpg?quality=90&auto=webp",
+                        "properties": {
+                            "caption": "",
+                            "description": ""
+                        }
+                    },
+                    {
+                        "type": "http://schema.org/ImageObject",
+                        "id": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY2/merlin_152010270_fa1d02f5-17e4-4b45-924d-cfaab2402308-articleLarge.jpg?quality=90&auto=webp",
+                        "properties": {
+                            "caption": "",
+                            "description": ""
+                        }
+                    }
+                ],
+                "author": {
+                    "type": "http://schema.org/Person",
+                    "properties": {"name": "Steven Strogatz"}
+                },
+                "creator": {
+                    "type": "http://schema.org/Person",
+                    "properties": {"name": "Steven Strogatz"}
+                },
+                "articleBody": "Adapted from \u201cInfinite Powers: How Calculus Reveals the Secrets of the Universe,\u201d which will be published on April 2 by Houghton Mifflin Harcourt.When my children were young, they liked to stare at a pie plate hanging in our kitchen, with the digits of pi running around the rim and spiraling in toward the center, shrinking in size as the numbers swirled into the abyss.Pi, as we all learned in school (and are reminded every March 14, on Pi Day), is defined as the ratio of a circle\u2019s circumference to its diameter. Denoted by the Greek letter π, this curious little number is approximately 3.14, although computers have calculated it out past 22 trillion digits and counting: 3.141592653589793238462643383279502\u2026, a sequence never repeating, never betraying any pattern, going on forever, infinity on a platter.For some people, Pi Day is an occasion to marvel at circles, long revered as symbols of perfection, reincarnation and the cycles of nature. But it is the domestication of infinity that we really should be celebrating. Mathematically, pi is less a child of geometry than an early ancestor of calculus, the branch of mathematics, devised in the 17th century, that deals with anything that curves, moves or changes continuously.As a ratio, pi has been around since Babylonian times, but it was the Greek geometer Archimedes, some 2,300 years ago, who first showed how to rigorously estimate the value of pi. Among mathematicians of his time, the concept of infinity was taboo; Aristotle had tried to banish it for being too paradoxical and logically treacherous. In Archimedes\u2019s hands, however, infinity became a mathematical workhorse.[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]He used it to discover the area of a circle, the volume of a sphere and many other properties of curved shapes that had stumped the finest mathematicians before him. In each case, he approximated a curved shape by using a large number of tiny straight lines or flat polygons. The resulting approximations were gemlike, faceted objects that yielded fantastic insights into the original shapes, especially when he imagined using infinitely many, infinitesimally small facets in the process.To get a feeling for this world-changing idea, imagine measuring the distance around a circular track near your house. To obtain an estimate, you could walk one lap and then consult a pedometer app on your phone to see how far you traveled. A pedometer computes the distance straightforwardly: It estimates the length of your stride based on your height (which you typed into the app), and it counts how many steps you\u2019ve taken. Then it multiplies stride length times the number of steps to calculate how far you walked.Archimedes used a similar method to estimate the circumference of a circle, and so to estimate pi. Again, imagine walking around a circular track. The resulting path would look something like this, with each step represented by a tiny straight line.ImageMultiply the number of lines by the length of each one to estimate the circumference of the circle. It\u2019s only an approximation, of course: Each straight segment is a shortcut in place of what really is a curved arc. So the approximation is sure to underestimate the true length of the circle.But by taking enough steps, and making them small enough, you could approximate the length of the track as accurately as you wanted. For example, paths with six, 12 and 24 steps would do an increasingly good job of hugging the circle.ImageArchimedes performed a similar series of calculations, starting with a hexagonal path made up of six straight steps. The advantage of a hexagon was that he could calculate both the length of its perimeter (which approximates the circle\u2019s circumference) and its diameter (which coincides with the circle\u2019s diameter).ImageThe perimeter is exactly six times the radius r of the circle, or 6r. That\u2019s because the hexagon contains six equilateral triangles, each side of which equals the circle\u2019s radius. The diameter of the hexagon, for its part, is two times the circle\u2019s radius, or 2r.Now recall that the perimeter of the hexagon underestimates the true circumference of the circle. So the ratio of these two hexagonal distances \u2014 6r/2r = 3 \u2014 must represent an underestimate of pi. Therefore, the unknown value of pi, whatever it equals, must be greater than 3.Of course, six is a ridiculously small number of steps, and the resulting hexagon is a crude caricature of a circle, but Archimedes was just getting started. Once he figured out what the hexagon was telling him, he shortened the steps and took twice as many of them. Then he kept doing that, over and over again.A man obsessed, he went from 6 steps to 12, then 24, 48 and ultimately 96 steps, using standard geometry to work out the ever-shrinking lengths of the steps to migraine-inducing precision. By using a 96-sided polygon inside the circle, and also a 96-sided polygon outside the circle, he ultimately proved that pi is greater than 3 + 10/71 and less than 3 + 10/70.Take a moment to savor the result visually:3 + 10/71 < π < 3 + 10/70.The unknown value of pi is being trapped in a numerical vise, squeezed between two numbers that look almost identical, except the first has a denominator of 71 and the last has a denominator of 70. By considering polygons with even more sides, later mathematicians tightened the vise even further. Around 1,600 years ago, the Chinese geometer Zu Chongzhi pondered polygons having an incredible 24,576 sides to squeeze pi out to eight digits:3.1415926 < π < 3.1415927.By allowing the number of sides in the polygons to increase indefinitely, all the way out to infinity, we can generate as many digits of pi as we like, at least in principle.In taming infinity, Archimedes paved the way for the invention of calculus 2,000 years later. And calculus, in turn, helped make the world modern. Archimedes\u2019s mathematical strategy is used in computer-generated movies, approximating Shrek\u2019s smooth belly and trumpet-like ears with millions of tiny polygons. The smooth glide of an Ella Fitzgerald song is digitally represented in streaming audio by an enormous number of bits.In every field of human endeavor, from reconstructive facial surgery to the simulation of air flowing past a jet\u2019s wing, billions of tiny, discrete elements stand in for an inherently smooth and analog reality. It all began with the computation of pi. Pi represents a mathematical limit: an aspiration toward the perfect curve, steady progress toward the unreachable star. It exists, clear as night, with no end in sight.Earlier reporting on pi and infinityThe Life of Pi, and Other InfinitiesDec. 31, 2012Eugenia Cheng Makes Math a Piece of CakeMay 2, 2016In the End, It All Adds Up to \u2013 1/12Feb. 3, 2014",
+                "copyrightYear": "2019",
+                "publisher": {
+                    "type": "http://schema.org/NewsMediaOrganization",
+                    "id": "https://www.nytimes.com",
+                    "properties": {
+                        "diversityPolicy": "https://www.nytco.com/diversity-and-inclusion-at-the-new-york-times/",
+                        "ethicsPolicy": "https://www.nytco.com/who-we-are/culture/standards-and-ethics/",
+                        "foundingDate": "1851-09-18",
+                        "logo": {
+                            "type": "https://schema.org/ImageObject",
+                            "properties": {"url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"}
+                        },
+                        "url": "https://www.nytimes.com/",
+                        "masthead": "https://www.nytimes.com/interactive/2018/09/28/admin/the-new-york-times-masthead.html",
+                        "name": "The New York Times Company"
+                    }
+                },
+                "copyrightHolder": {
+                    "type": "http://schema.org/NewsMediaOrganization",
+                    "id": "https://www.nytimes.com",
+                    "properties": {
+                        "diversityPolicy": "https://www.nytco.com/diversity-and-inclusion-at-the-new-york-times/",
+                        "ethicsPolicy": "https://www.nytco.com/who-we-are/culture/standards-and-ethics/",
+                        "foundingDate": "1851-09-18",
+                        "logo": {
+                            "type": "https://schema.org/ImageObject",
+                            "properties": {"url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"}
+                        },
+                        "url": "https://www.nytimes.com/",
+                        "masthead": "https://www.nytimes.com/interactive/2018/09/28/admin/the-new-york-times-masthead.html",
+                        "name": "The New York Times Company"
+                    }
+                },
+                "provider": {
+                    "type": "http://schema.org/NewsMediaOrganization",
+                    "id": "https://www.nytimes.com",
+                    "properties": {
+                        "diversityPolicy": "https://www.nytco.com/diversity-and-inclusion-at-the-new-york-times/",
+                        "ethicsPolicy": "https://www.nytco.com/who-we-are/culture/standards-and-ethics/",
+                        "foundingDate": "1851-09-18",
+                        "logo": {
+                            "type": "https://schema.org/ImageObject",
+                            "properties": {"url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"}
+                        },
+                        "url": "https://www.nytimes.com/",
+                        "masthead": "https://www.nytimes.com/interactive/2018/09/28/admin/the-new-york-times-masthead.html",
+                        "name": "The New York Times Company"
+                    }
+                },
+                "sourceOrganization": {
+                    "type": "http://schema.org/NewsMediaOrganization",
+                    "id": "https://www.nytimes.com",
+                    "properties": {
+                        "diversityPolicy": "https://www.nytco.com/diversity-and-inclusion-at-the-new-york-times/",
+                        "ethicsPolicy": "https://www.nytco.com/who-we-are/culture/standards-and-ethics/",
+                        "foundingDate": "1851-09-18",
+                        "logo": {
+                            "type": "https://schema.org/ImageObject",
+                            "properties": {"url": "https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png"}
+                        },
+                        "url": "https://www.nytimes.com/",
+                        "masthead": "https://www.nytimes.com/interactive/2018/09/28/admin/the-new-york-times-masthead.html",
+                        "name": "The New York Times Company"
+                    }
+                }
+            }
+        }
+    ],
+    "json-ld": [],
+    "opengraph": [
+        {
+            "namespace": {
+                "article": "http://ogp.me/ns/article#",
+                "og": "http://ogp.me/ns#"
+            },
+            "properties": [
+                [
+                    "article:published",
+                    "2019-03-14T06:30:05.000Z"
+                ],
+                [
+                    "article:modified",
+                    "2019-03-14T20:32:53.079Z"
+                ],
+                [
+                    "og:url",
+                    "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html"
+                ],
+                [
+                    "og:type",
+                    "article"
+                ],
+                [
+                    "og:title",
+                    "Pi Day: How One Irrational Number Made Us Modern"
+                ],
+                [
+                    "og:image",
+                    "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/14PIDAY1-facebookJumbo.jpg"
+                ],
+                [
+                    "og:description",
+                    "The famous mathematical ratio, estimated to more than 22 trillion digits (and counting), is the perfect symbol for our species\u2019 long effort to tame infinity."
+                ],
+                [
+                    "article:section",
+                    "Science"
+                ],
+                [
+                    "article:tag",
+                    "Mathematics"
+                ],
+                [
+                    "article:tag",
+                    "Pi (Mathematics)"
+                ],
+                [
+                    "article:tag",
+                    "your-feed-science"
+                ]
+            ]
+        }
+    ],
+    "microformat": [],
+    "rdfa": [
+        {
+            "@id": "_:Nd5dafefca19f4088938aae4ca9a6d150",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#toolbar"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#item-siteindex-3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tab"}
+            ]
+        },
+        {
+            "@id": "_:Ncea45dad290b400a99949f9516956e66",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#group"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#body-siteindex-1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#body-siteindex-0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"}
+            ]
+        },
+        {
+            "@id": "_:Nb29666459a8a4d8fa1f6ba8ed060882d",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#toolbar"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#body-siteindex-2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#body-siteindex-3",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html",
+            "al:android:app_name": [
+                {"@value": "NYTimes"}
+            ],
+            "al:android:package": [
+                {"@value": "com.nytimes.android"}
+            ],
+            "al:android:url": [
+                {"@value": "nytimes://reader/id/100000006408242"}
+            ],
+            "al:ipad:app_name": [
+                {"@value": "NYTimes"}
+            ],
+            "al:ipad:app_store_id": [
+                {"@value": "357066198"}
+            ],
+            "al:ipad:url": [
+                {"@value": "nytimes://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html"}
+            ],
+            "al:iphone:app_name": [
+                {"@value": "NYTimes"}
+            ],
+            "al:iphone:app_store_id": [
+                {"@value": "284862083"}
+            ],
+            "al:iphone:url": [
+                {"@value": "nytimes://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html"}
+            ],
+            "article:modified": [
+                {"@value": "2019-03-14T20:32:53.079Z"}
+            ],
+            "article:published": [
+                {"@value": "2019-03-14T06:30:05.000Z"}
+            ],
+            "article:section": [
+                {"@value": "Science"}
+            ],
+            "article:tag": [
+                {"@value": "Mathematics"},
+                {"@value": "your-feed-science"},
+                {"@value": "Pi (Mathematics)"}
+            ],
+            "http://ogp.me/ns/fb#app_id": [
+                {"@value": "9869919170"}
+            ],
+            "http://opengraphprotocol.org/schema/description": [
+                {"@value": "The famous mathematical ratio, estimated to more than 22 trillion digits (and counting), is the perfect symbol for our species\u2019 long effort to tame infinity."}
+            ],
+            "http://opengraphprotocol.org/schema/image": [
+                {"@value": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/14PIDAY1-facebookJumbo.jpg"}
+            ],
+            "http://opengraphprotocol.org/schema/title": [
+                {"@value": "Pi Day: How One Irrational Number Made Us Modern"}
+            ],
+            "http://opengraphprotocol.org/schema/type": [
+                {"@value": "article"}
+            ],
+            "http://opengraphprotocol.org/schema/url": [
+                {"@value": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html"}
+            ],
+            "https://dev.twitter.com/cards#card": [
+                {"@value": "summary_large_image"}
+            ],
+            "https://dev.twitter.com/cards#description": [
+                {"@value": "The famous mathematical ratio, estimated to more than 22 trillion digits (and counting), is the perfect symbol for our species\u2019 long effort to tame infinity."}
+            ],
+            "https://dev.twitter.com/cards#image": [
+                {"@value": "https://static01.nyt.com/images/2019/03/14/science/14PIDAY1/14PIDAY1-videoSixteenByNineJumbo1600.jpg"}
+            ],
+            "https://dev.twitter.com/cards#image:alt": [
+                {"@value": "Devotees of the circle during a Pi Day celebration in Houston."}
+            ],
+            "https://dev.twitter.com/cards#title": [
+                {"@value": "Pi Day: How One Irrational Number Made Us Modern"}
+            ],
+            "https://dev.twitter.com/cards#url": [
+                {"@value": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html"}
+            ]
+        },
+        {
+            "@id": "_:Na91dc5303ac44493b0b67ff7d4086100",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#toolbar"}
+            ]
+        },
+        {
+            "@id": "_:N453dd634ead14379acdb115b84925fb8",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#contentinfo"}
+            ]
+        },
+        {
+            "@id": "_:N7179574e5f5a42f38415765420a5a840",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#group"}
+            ]
+        },
+        {
+            "@id": "_:Nbc5f021cbc804f4bb5834382fa9143ef",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tablist"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#item-siteindex-0",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tab"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#item-siteindex-2",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tab"}
+            ]
+        },
+        {
+            "@id": "_:N45f490ca36ca40e690722740bddbac00",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#group"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#item-siteindex-4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tab"}
+            ]
+        },
+        {
+            "@id": "_:Ne1310df61b904316b2cc07d19c4001f5",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#group"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#item-siteindex-1",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tab"}
+            ]
+        },
+        {
+            "@id": "https://www.nytimes.com/2019/03/14/science/pi-math-geometry-infinity.html#body-siteindex-4",
+            "http://www.w3.org/1999/xhtml/vocab#role": [
+                {"@id": "http://www.w3.org/1999/xhtml/vocab#tabpanel"}
+            ]
+        }
+    ]
+}
